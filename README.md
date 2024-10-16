@@ -74,9 +74,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - Icons provided by [Font Awesome](https://fontawesome.com/)
 - Fonts from [Google Fonts](https://fonts.google.com/)
-
-## Contact
-
-Your Name - your.email@example.com
-
-Project Link: https://github.com/your-username/coffee-shop-landing-page
