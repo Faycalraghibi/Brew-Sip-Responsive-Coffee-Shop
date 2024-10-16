@@ -22,7 +22,7 @@ This project is a responsive landing page for a coffee shop. It features a moder
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Faycalraghibi/Brew&Sip:Responsive-Coffee-Shop.git
+   git clone https://github.com/Faycalraghibi/Brew-Sip-Responsive-Coffee-Shop.git
    ```
 2. Navigate to the project directory:
    ```
